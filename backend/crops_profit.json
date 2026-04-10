@@ -1,0 +1,7 @@
+{
+  "rice": { "yield": 2.5, "price": 20, "cost": 20000 },
+  "wheat": { "yield": 3.0, "price": 18, "cost": 15000 },
+  "maize": { "yield": 2.8, "price": 17, "cost": 12000 },
+  "mungbean": { "yield": 1.5, "price": 60, "cost": 8000 },
+  "cotton": { "yield": 2.0, "price": 50, "cost": 25000 }
+}
