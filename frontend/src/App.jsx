@@ -16,7 +16,7 @@ function App() {
 
     try {
       // POST request to your Node.js backend
-      const response = await fetch('http://localhost:5001/api/predict', {
+      const response = await fetch('https://crop-recommendation-v49z.onrender.com/api/predict', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
